@@ -1,4 +1,18 @@
-## Hi there 👋
+## My Profile
+## Name
+Vincent Zyrell Dela Cruz
+## Education
+Bachelor of Science in Information Technology (BSIT) at New Era University
+## Certifications
+
+## Skillsets
+<ul>
+  <li>UI/UX Design</li>
+  <li>Web Design</li>
+  <li>Basic SQL</li>
+  <li>Intermediate Programming</li>
+  <li>Collaboration</li>
+</ul>
 
 <!--
 **VincentZyrellDelaCruz/VincentZyrellDelaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
